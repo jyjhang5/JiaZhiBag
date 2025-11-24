@@ -1,7 +1,9 @@
-# Python Tools Index
+Project Root: D:\Projects\JiaZhiBag
 
-## Misc
-- `gen_readme.py`
+python/
+│   ├── gen_readme.py
+│   ├── patch
+│   │   └── split-patch.sh
+│   └── video_tools
+│       └── rtsp_sdp_parser.py
 
-## video_tools
-- `rtsp_sdp_parser.py`
